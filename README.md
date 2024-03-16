@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/5eb57991-768e-433f-a602-1e19293eae18" alt="TRAZ Logo" width="300px" height="120px" />
-  <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/1296e5c8-c190-45fd-9a71-0962ed0ed2cb" alt="Digital India Logo" width="300px" height="120px" />
   <div>
     <h5>Unlocking the future of Supply Chain System 🚛📦</h5>
   </div>
