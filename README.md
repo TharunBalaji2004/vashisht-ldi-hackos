@@ -14,12 +14,12 @@ Our solution _TRAZ: Transparent Supply Chain System using Blockchain Technology_
   <p>Team Name: <b>LDI HACKOS</b></p>
 </div>
 
-| Name | Role | GitHub Profile |
+| Name | Email | Role | GitHub Profile |
 | :----: | :----: | :----: |
-| Tharun Balaji R | Blockchain & Backend | [TharunBalaji2004](https://github.com/TharunBalaji2004) |
-| Tharun R | Blockchain Development | [TharunR222](https://github.com/TharunR222) |
-| Sriram RS | Blockchain Development | [SRIRAM-001](https://github.com/SRIRAM-001) |
-| Keerthana S | UI & Frontend | [keerthana054](https://github.com/keerthana054) |
+| Tharun Balaji R | tharunbalaji31@gmail.com | Blockchain & Backend | [TharunBalaji2004](https://github.com/TharunBalaji2004) |
+| Tharun R | tharunr.cse2021@citchennai.net | Blockchain Development | [TharunR222](https://github.com/TharunR222) |
+| Sriram RS | sriramsivakumar23@gmail.com | Blockchain Development | [SRIRAM-001](https://github.com/SRIRAM-001) |
+| Keerthana S | | UI & Frontend | [keerthana054](https://github.com/keerthana054) |
 
 Special thanks ❤️ to all Team members, for their effort and dedication towards building the project!
 
