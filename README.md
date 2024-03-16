@@ -25,8 +25,8 @@ Special thanks ❤️ to all Team members, for their effort and dedication towar
 
 ## Problem Statement
 
-<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/eb719dd1-7130-45cd-8b17-dd73cd4536bd" height="200px" width="400px" />
-<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/d02a8103-7dae-4c9d-950f-58c262442f87" height="200px" width="400px" />
+<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/eb719dd1-7130-45cd-8b17-dd73cd4536bd" height="250px" width="400px" />
+<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/d02a8103-7dae-4c9d-950f-58c262442f87" height="250px" width="400px" />
 <br /><br />
 
 The opacity of global **supply chains** hinders traceability, informed decision-making and perpetuating unethical practices. This lack of **transparency** contributes to **counterfeit** goods, hidden environmental impacts, and erodes consumer trust in product **authenticity** and ethical sourcing.
