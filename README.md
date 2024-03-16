@@ -49,4 +49,36 @@ During the project building phase, we encountered certain challenges such as:
 - **Scalability:** Blockchain networks must handle large volumes of data transactions efficiently to support real-time tracking and traceability in supply chains. We were able to adopt certain compression and encoding techniques to store data with efficiently and perform transactions.
 
 ## Project Images
+### 1. Website Dashboard (for Owners)
+
+| 1) TRAZ: HomePage |  
+| :---: |
+| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/f616d891-c835-4833-8c7d-5debb98af5d5" alt="1" height="450px" width="900" /> | 
+
+| 2) TRAZ: RolesPage - Owner assigns roles to authorities |  
+| :---: |
+| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/06f2dca6-1694-473c-acda-7544b7b92432" alt="2" height="450px" width="900px" /> | 
+
+| 3) TRAZ: ProductsPage - Owner creates product to supply chain |  
+| :---: |
+| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/5663d325-adb7-4341-a642-41c0c77abad7" alt="3" height="450px" width="900px" /> | 
+
+| 4) TRAZ: SupplyPage - Updating product journey at each stage |  
+| :---: |
+| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/0bf4f59f-0efe-45f7-833e-ec8f3321c870" alt="4" height="450px" width="900px" /> | 
+
+| 5) TRAZ: TrackPage - Owner/Consumer can track the product journey |  
+| :---: |
+| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/1147f30d-8ee4-4f21-b5e0-09cfb5ba3cf2" alt="5" height="450px" width="900px" /> | 
+
+### 2. Mobile Application (for Consumers)
+
+| QR Code Scanning | QR Code Results |
+|:---:|:----:|
+| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/7f0c951f-4b01-49c3-b199-c952ca974547" height="1000px" width="550px" /> | <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/d8c1539f-9e5f-4204-862a-60b75f30a0d2" height="1000px" width="550px" /> |
+
+
+
+
+
 
