@@ -6,6 +6,7 @@
   </div>
 </h1>
 
+Our solution _TRAZ: Transparent Supply Chain System using Blockchain Technology_ enhances the transparency for owners and reliability for consumers by leveraging Blockchain technology which incorporates wide features to revolutionize the way stakeholders interact with and perceive the supply chain. 
 
 ## Team Members
 
