@@ -75,9 +75,40 @@ During the project building phase, we encountered certain challenges such as:
 
 | QR Code Scanning | QR Code Results |
 |:---:|:----:|
-| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/7f0c951f-4b01-49c3-b199-c952ca974547" height="1000px" width="550px" /> | <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/d8c1539f-9e5f-4204-862a-60b75f30a0d2" height="1000px" width="550px" /> |
+| <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/7f0c951f-4b01-49c3-b199-c952ca974547" height="1000px" width="520px" /> | <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/d8c1539f-9e5f-4204-862a-60b75f30a0d2" height="1000px" width="520px" /> |
 
+## Project Steps
 
+#### Step 1
+Clone the github repo and open root directory
+```bash
+git clone https://github.com/TharunBalaji2004/vashisht-ldi-hackos.git
+cd supply-chain-truffle-react
+```
+
+#### Step 2
+Open ganache UI/CLI and create sample local Ethereum blockchain network, also configure the truffle-config.js
+
+#### Step 3
+Inside the root directory, compile and deploy the smart contracts
+```bash
+npx truffle compile
+npx truffle migrate
+```
+> NOTE: If you make changes in the smart contract you have to redeploy it using `npx truffle migrate --reset`
+
+#### Step 4
+After deploying smart contract, install modules in `client` folder
+```bash
+cd client
+npm install
+```
+
+#### Step 5
+Start the development server to run frontend website dashboard
+```bash
+npm run start
+```
 
 
 
