@@ -7,6 +7,9 @@
 
 Our solution _TRAZ: Transparent Supply Chain System using Blockchain Technology_ enhances the transparency for owners and reliability for consumers by leveraging Blockchain technology which incorporates wide features to revolutionize the way stakeholders interact with and perceive the supply chain. 
 
+- Full Project Demo: https://youtu.be/UhWjoeC9PGM
+- Mobile Application Repo: https://github.com/TharunBalaji2004/reactnative-traz-app.git
+
 ## Team Members
 
 <div>
