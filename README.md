@@ -87,7 +87,7 @@ cd supply-chain-truffle-react
 ```
 
 #### Step 2
-Open ganache UI/CLI and create sample local Ethereum blockchain network, also configure the truffle-config.js
+Open [Ganache UI/CLI](https://archive.trufflesuite.com/ganache/) and create sample local Ethereum blockchain network for simulation, also configure the truffle-config.js
 
 #### Step 3
 Inside the root directory, compile and deploy the smart contracts
@@ -110,6 +110,16 @@ Start the development server to run frontend website dashboard
 npm run start
 ```
 
+## Technologies Used
 
+<div align="center">
+  <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/56bfa690-2c7d-4bda-9b9b-5fcc3bc8295c" />
+</div>
+
+## Project Architecture Flow
+
+<div align="center">
+  <img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/8b4fcf70-ac69-4dbe-b695-90c8c823f431" />
+</div>
 
 
