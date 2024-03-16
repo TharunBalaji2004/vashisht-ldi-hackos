@@ -15,7 +15,7 @@ Our solution _TRAZ: Transparent Supply Chain System using Blockchain Technology_
 </div>
 
 | Name | Email | Role | GitHub Profile |
-| :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: |
 | Tharun Balaji R | tharunbalaji31@gmail.com | Blockchain & Backend | [TharunBalaji2004](https://github.com/TharunBalaji2004) |
 | Tharun R | tharunr.cse2021@citchennai.net | Blockchain Development | [TharunR222](https://github.com/TharunR222) |
 | Sriram RS | sriramsivakumar23@gmail.com | Blockchain Development | [SRIRAM-001](https://github.com/SRIRAM-001) |
