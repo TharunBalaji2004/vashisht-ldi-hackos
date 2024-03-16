@@ -40,8 +40,8 @@ We have categorized the problem into three aspects:
 
 ## Project Usecases
 
-<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/9c1294bd-bd59-4c84-834f-3e3ec383f962" height="200px" width="400px" />
-<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/80ce5fca-d4f6-45d0-900e-2a109e347653" height="200px" width="400px" />
+<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/9c1294bd-bd59-4c84-834f-3e3ec383f962" height="250px" width="400px" />
+<img src="https://github.com/TharunBalaji2004/vashisht-ldi-hackos/assets/95350584/80ce5fca-d4f6-45d0-900e-2a109e347653" height="250px" width="400px" />
 <br /><br />
 
 Imagine a consumer, Sarah, wants to purchase a new smartphone. Concerned about ethical sourcing and product authenticity, she scans the QR code on the phone's packaging. Instantly, she accesses the Blockchain-powered platform, where she sees detailed information about the phone's journey, from raw materials to manufacturing to distribution. Seeing the transparent supply chain and adherence to ethical practices, Sarah confidently makes the purchase, knowing she's supporting a responsible brand.
